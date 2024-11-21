@@ -1,6 +1,6 @@
 # Spring Boot CRUD with Thymeleaf
 
-This project is a simple CRUD application built using **Spring Boot**, **Thymeleaf**, **Java 21**, and **PostgreSQL**. It demonstrates the use of RESTful APIs and web controllers for managing "Buah" (fruit) entities.
+A simple CRUD (Create, Read, Update, Delete) application built with Spring Boot and Thymeleaf for managing fruit (buah) data.
 
 ## Technologies Used
 
@@ -12,13 +12,11 @@ This project is a simple CRUD application built using **Spring Boot**, **Thymele
 - **PostgreSQL**
 
 ## Features
-
-- **REST API** for CRUD operations:
-    - Create, edit, and delete fruits
-    - List all fruits
-- **Web Interface** for CRUD operations:
-    - List fruits in a table view
-    - Create and edit fruit details using forms
+- List all fruits with formatted price display (Rp)
+- Add new fruit entries
+- Edit existing fruit data
+- Soft delete fruit entries
+- Responsive UI using Bootstrap
 
 ## Project Structure
 
