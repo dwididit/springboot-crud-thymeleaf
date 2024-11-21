@@ -59,8 +59,8 @@ This project is a simple CRUD application built using **Spring Boot**, **Thymele
 
 1. Clone the repository:
    ```bash
-   git clone <repository_url>
-   cd <project_directory>
+   git@github.com:dwididit/springboot-crud-thymeleaf.git
+   cd springboot-crud-thymeleaf/
 2. Build the project
     ```bash
     mvn clean install
