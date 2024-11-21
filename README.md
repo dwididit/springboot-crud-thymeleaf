@@ -1,6 +1,6 @@
 # Spring Boot CRUD with Thymeleaf
 
-This project is a simple CRUD application built using **Spring Boot**, **Thymeleaf**, and **Java 21**. It demonstrates the use of RESTful APIs and web controllers for managing "Buah" (fruit) entities.
+This project is a simple CRUD application built using **Spring Boot**, **Thymeleaf**, **Java 21**, and **PostgreSQL**. It demonstrates the use of RESTful APIs and web controllers for managing "Buah" (fruit) entities.
 
 ## Technologies Used
 
@@ -9,6 +9,7 @@ This project is a simple CRUD application built using **Spring Boot**, **Thymele
 - **Apache Maven 3.9.8**
 - **Thymeleaf**
 - **Lombok**
+- **PostgreSQL**
 
 ## Features
 
