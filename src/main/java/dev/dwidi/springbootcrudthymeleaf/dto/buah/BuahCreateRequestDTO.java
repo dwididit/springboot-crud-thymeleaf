@@ -1,4 +1,4 @@
-package dev.dwidi.springbootcrudthymeleaf.dto;
+package dev.dwidi.springbootcrudthymeleaf.dto.buah;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
